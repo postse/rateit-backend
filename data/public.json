@@ -1,2 +1,157 @@
 {
+    "listsToSort": [
+        {
+            "name": "NFL Teams",
+            "items": [
+                {
+                    "name": "Carolina Panthers",
+                    "img": "https://cdn.freebiesupply.com/images/large/2x/carolina-panthers-logo-transparent.png"
+                },
+                {
+                    "name": "New Orleans Saints",
+                    "img": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-saints-logo-transparent.png"
+                },
+                {
+                    "name": "Tampa Bay Buccaneers",
+                    "img": "https://cdn.freebiesupply.com/images/large/2x/tampa-bay-buccaneers-logo-transparent.png"
+                },
+                {
+                    "name": "Atlanta Falcons",
+                    "img": "https://www.stickpng.com/assets/images/580b585b2edbce24c47b2b02.png"
+                }
+            ],
+            "timesRated": 0,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/51CcldCLENL.jpg",
+            "dateCreated": "2019-11-29T21:25:39.627Z"
+        },
+        
+        {
+            "name": "NBA Teams",
+            "items": [
+                {
+                    "name": "Atlanta Hawks",
+                    "img": null
+                }, 
+                {
+                    "name": "Boston Celtics",
+                    "img": null
+                }, 
+                {
+                    "name": "Brooklyn Nets",
+                    "img": null
+                }, 
+                {
+                    "name": "Charlotte Hornets",
+                    "img": null
+                }, 
+                {
+                    "name": "Chicago Bulls",
+                    "img": null
+                }, 
+                {
+                    "name": "Cleveland Cavaliers",
+                    "img": null
+                }, 
+                {
+                    "name": "Dallas Mavericks",
+                    "img": null
+                }, 
+                {
+                    "name": "Denver Nuggets",
+                    "img": null
+                }, 
+                {
+                    "name": "Detroit Pistons",
+                    "img": null
+                }, 
+                {
+                    "name": "Golden State Warriors",
+                    "img": null
+                }, 
+                {
+                    "name": "Houston Rockets",
+                    "img": null
+                }, 
+                {
+                    "name": "Indiana Pacers",
+                    "img": null
+                }, 
+                {
+                    "name": "Los Angeles Clippers",
+                    "img": null
+                }, 
+                {
+                    "name": "Los Angeles Lakers",
+                    "img": null
+                }, 
+                {
+                    "name": "Memphis Grizzlies",
+                    "img": null
+                }, 
+                {
+                    "name": "Miami Heat",
+                    "img": null
+                }, 
+                {
+                    "name": "Milwaukee Bucks",
+                    "img": null
+                }, 
+                {
+                    "name": "Minnesota Timberwolves",
+                    "img": null
+                }, 
+                {
+                    "name": "New Orleans Pelicans",
+                    "img": null
+                }, 
+                {
+                    "name": "New York Knicks",
+                    "img": null
+                }, 
+                {
+                    "name": "Oklahoma City Thunder",
+                    "img": null
+                }, 
+                {
+                    "name": "Orlando Magic",
+                    "img": null
+                }, 
+                {
+                    "name": "Philadelphia 76ers",
+                    "img": null
+                }, 
+                {
+                    "name": "Phoenix Suns",
+                    "img": null
+                }, 
+                {
+                    "name": "Portland Trail Blazers",
+                    "img": null
+                }, 
+                {
+                    "name": "Sacramento Kings",
+                    "img": null
+                }, 
+                {
+                    "name": "San Antonio Spurs",
+                    "img": null
+                }, 
+                {
+                    "name": "Toronto Raptors",
+                    "img": null
+                }, 
+                {
+                    "name": "Utah Jazz",
+                    "img": null
+                }, 
+                {
+                    "name": "Washington Wizards",
+                    "img": null
+                }
+            ],
+            "timesRated": 0,
+            "img": "https://www.stickpng.com/assets/images/58428defa6515b1e0ad75ab4.png",
+            "dateCreated": "2019-11-29T21:25:39.627Z"
+        }
+    ]
 }
