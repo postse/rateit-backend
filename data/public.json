@@ -5,23 +5,136 @@
             "items": [
                 {
                     "name": "Carolina Panthers",
-                    "img": "https://cdn.freebiesupply.com/images/large/2x/carolina-panthers-logo-transparent.png"
+                    "img": null
                 },
                 {
                     "name": "New Orleans Saints",
-                    "img": "https://cdn.freebiesupply.com/images/large/2x/new-orleans-saints-logo-transparent.png"
+                    "img": null
                 },
                 {
                     "name": "Tampa Bay Buccaneers",
-                    "img": "https://cdn.freebiesupply.com/images/large/2x/tampa-bay-buccaneers-logo-transparent.png"
+                    "img": null
                 },
                 {
                     "name": "Atlanta Falcons",
-                    "img": "https://www.stickpng.com/assets/images/580b585b2edbce24c47b2b02.png"
+                    "img": null
+                }, 
+                {
+                    "name": "Dallas Cowboys",
+                    "img": null
+                }, 
+                {
+                    "name": "Philadelphia Eagles",
+                    "img": null
+                }, 
+                {
+                    "name": "New York Giants",
+                    "img": null
+                }, 
+                {
+                    "name": "Washington Redskins",
+                    "img": null
+                }, 
+                {
+                    "name": "Green Bay Packers",
+                    "img": null
+                }, 
+                {
+                    "name": "Chicago Bears",
+                    "img": null
+                }, 
+                {
+                    "name": "Minnesota Vikings",
+                    "img": null
+                }, 
+                {
+                    "name": "Detroit Lions",
+                    "img": null
+                }, 
+                {
+                    "name": "Seattle Seahawks",
+                    "img": null
+                }, 
+                {
+                    "name": "Arizona Cardinals",
+                    "img": null
+                }, 
+                {
+                    "name": "San Francisco 49ers",
+                    "img": null
+                }, 
+                {
+                    "name": "Los Angeles Rams",
+                    "img": null
+                }, 
+                {
+                    "name": "New England Patriots",
+                    "img": null
+                }, 
+                {
+                    "name": "Miami Dolphins",
+                    "img": null
+                }, 
+                {
+                    "name": "New York Jets",
+                    "img": null
+                }, 
+                {
+                    "name": "Buffalo Bills",
+                    "img": null
+                }, 
+                {
+                    "name": "Pittsburgh Steelers",
+                    "img": null
+                }, 
+                {
+                    "name": "Cleveland Browns",
+                    "img": null
+                }, 
+                {
+                    "name": "Baltimore Ravens",
+                    "img": null
+                }, 
+                {
+                    "name": "Cincinatti Bengals",
+                    "img": null
+                }, 
+                {
+                    "name": "Oakland Raiders",
+                    "img": null
+                }, 
+                {
+                    "name": "Kansas City Chiefs",
+                    "img": null
+                }, 
+                {
+                    "name": "Los Angeles Chargers",
+                    "img": null
+                }, 
+                {
+                    "name": "Denver Broncos",
+                    "img": null
+                }, 
+                {
+                    "name": "Jacksonville Jaguars",
+                    "img": null
+                }, 
+                {
+                    "name": "Tennessee Titans",
+                    "img": null
+                }, 
+                {
+                    "name": "Indianapolis Colts",
+                    "img": null
+                }, 
+                {
+                    "name": "Houston Texans",
+                    "img": null
                 }
             ],
             "timesRated": 0,
-            "img": "https://images-na.ssl-images-amazon.com/images/I/51CcldCLENL.jpg",
+            "img": "https://www.stickpng.com/assets/images/5895deb9cba9841eabab6099.png",
+            "criteria": "Choose the team most likely to win right now",
             "dateCreated": "2019-11-29T21:25:39.627Z"
         },
         
@@ -151,6 +264,145 @@
             ],
             "timesRated": 0,
             "img": "https://www.stickpng.com/assets/images/58428defa6515b1e0ad75ab4.png",
+            "criteria": "Choose the team most likely to win right now",
+            "dateCreated": "2019-11-29T21:25:39.627Z"
+        }, 
+        {
+            "name": "MCU Movies",
+            "items": [
+                {
+                    "name": "Iron Man",
+                    "img": null
+                }, 
+                {
+                    "name": "The Incredible Hulk",
+                    "img": null
+                }, 
+                {
+                    "name": "Iron Man 2",
+                    "img": null
+                }, 
+                {
+                    "name": "Thor",
+                    "img": null
+                }, 
+                {
+                    "name": "Captain America: The First Avenger",
+                    "img": null
+                }, 
+                {
+                    "name": "The Avengers",
+                    "img": null
+                }, 
+                {
+                    "name": "Iron Man 3",
+                    "img": null
+                }, 
+                {
+                    "name": "Thor: The Dark World",
+                    "img": null
+                }, 
+                {
+                    "name": "Captain America: The Winter Soldier",
+                    "img": null
+                }, 
+                {
+                    "name": "Guardians of the Galaxy",
+                    "img": null
+                }, 
+                {
+                    "name": "Avengers: Age of Ultron",
+                    "img": null
+                }, 
+                {
+                    "name": "Ant-Man",
+                    "img": null
+                }, 
+                {
+                    "name": "Captain America: Civil War",
+                    "img": null
+                }, 
+                {
+                    "name": "Doctor Strange",
+                    "img": null
+                }, 
+                {
+                    "name": "Guardians of the Galaxy Vol. 2",
+                    "img": null
+                }, 
+                {
+                    "name": "Spider-Man: Homecoming",
+                    "img": null
+                }, 
+                {
+                    "name": "Thor: Ragnarok",
+                    "img": null
+                }, 
+                {
+                    "name": "Black Panther",
+                    "img": null
+                }, 
+                {
+                    "name": "Avengers: Infinity War",
+                    "img": null
+                }, 
+                {
+                    "name": "Ant-Man and the Wasp",
+                    "img": null
+                }, 
+                {
+                    "name": "Captain Marvel",
+                    "img": null
+                }, 
+                {
+                    "name": "Avengers: Endgame",
+                    "img": null
+                }, 
+                {
+                    "name": "Spider-Man: Far From Home",
+                    "img": null
+                }
+            ],
+            "timesRated": 0,
+            "img": "https://www.stickpng.com/assets/images/585f9333cb11b227491c3581.png",
+            "criteria": "Choose the movie you would like to watch more right now",
+            "dateCreated": "2019-11-29T21:25:39.627Z"
+        },
+        {
+            "name": "DCEU Movies",
+            "items": [
+                {
+                    "name": "Man of Steel",
+                    "img": null
+                }, 
+                {
+                    "name": "Batman v Superman: Dawn of Justice",
+                    "img": null
+                }, 
+                {
+                    "name": "Suicide Squad",
+                    "img": null
+                }, 
+                {
+                    "name": "Wonder Woman",
+                    "img": null
+                }, 
+                {
+                    "name": "Justice League",
+                    "img": null
+                }, 
+                {
+                    "name": "Aquaman",
+                    "img": null
+                }, 
+                {
+                    "name": "Shazam!",
+                    "img": null
+                }
+            ],
+            "timesRated": 0,
+            "img": "http://clipart-library.com/images_k/dc-logo-transparent/dc-logo-transparent-11.png",
+            "criteria": "Choose the movie you would like to watch more right now",
             "dateCreated": "2019-11-29T21:25:39.627Z"
         }
     ]
