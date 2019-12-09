@@ -1,409 +1,911 @@
 {
-    "listsToSort": [
+  "listsToSort": [
+    {
+      "name": "NFL Teams",
+      "items": [
         {
-            "name": "NFL Teams",
-            "items": [
-                {
-                    "name": "Carolina Panthers",
-                    "img": null
-                },
-                {
-                    "name": "New Orleans Saints",
-                    "img": null
-                },
-                {
-                    "name": "Tampa Bay Buccaneers",
-                    "img": null
-                },
-                {
-                    "name": "Atlanta Falcons",
-                    "img": null
-                }, 
-                {
-                    "name": "Dallas Cowboys",
-                    "img": null
-                }, 
-                {
-                    "name": "Philadelphia Eagles",
-                    "img": null
-                }, 
-                {
-                    "name": "New York Giants",
-                    "img": null
-                }, 
-                {
-                    "name": "Washington Redskins",
-                    "img": null
-                }, 
-                {
-                    "name": "Green Bay Packers",
-                    "img": null
-                }, 
-                {
-                    "name": "Chicago Bears",
-                    "img": null
-                }, 
-                {
-                    "name": "Minnesota Vikings",
-                    "img": null
-                }, 
-                {
-                    "name": "Detroit Lions",
-                    "img": null
-                }, 
-                {
-                    "name": "Seattle Seahawks",
-                    "img": null
-                }, 
-                {
-                    "name": "Arizona Cardinals",
-                    "img": null
-                }, 
-                {
-                    "name": "San Francisco 49ers",
-                    "img": null
-                }, 
-                {
-                    "name": "Los Angeles Rams",
-                    "img": null
-                }, 
-                {
-                    "name": "New England Patriots",
-                    "img": null
-                }, 
-                {
-                    "name": "Miami Dolphins",
-                    "img": null
-                }, 
-                {
-                    "name": "New York Jets",
-                    "img": null
-                }, 
-                {
-                    "name": "Buffalo Bills",
-                    "img": null
-                }, 
-                {
-                    "name": "Pittsburgh Steelers",
-                    "img": null
-                }, 
-                {
-                    "name": "Cleveland Browns",
-                    "img": null
-                }, 
-                {
-                    "name": "Baltimore Ravens",
-                    "img": null
-                }, 
-                {
-                    "name": "Cincinatti Bengals",
-                    "img": null
-                }, 
-                {
-                    "name": "Oakland Raiders",
-                    "img": null
-                }, 
-                {
-                    "name": "Kansas City Chiefs",
-                    "img": null
-                }, 
-                {
-                    "name": "Los Angeles Chargers",
-                    "img": null
-                }, 
-                {
-                    "name": "Denver Broncos",
-                    "img": null
-                }, 
-                {
-                    "name": "Jacksonville Jaguars",
-                    "img": null
-                }, 
-                {
-                    "name": "Tennessee Titans",
-                    "img": null
-                }, 
-                {
-                    "name": "Indianapolis Colts",
-                    "img": null
-                }, 
-                {
-                    "name": "Houston Texans",
-                    "img": null
-                }
-            ],
-            "timesRated": 0,
-            "img": "https://www.stickpng.com/assets/images/5895deb9cba9841eabab6099.png",
-            "criteria": "Choose the team most likely to win right now",
-            "dateCreated": "2019-11-29T21:25:39.627Z"
-        },
-        
-        {
-            "name": "NBA Teams",
-            "items": [
-                {
-                    "name": "Atlanta Hawks",
-                    "img": null
-                }, 
-                {
-                    "name": "Boston Celtics",
-                    "img": null
-                }, 
-                {
-                    "name": "Brooklyn Nets",
-                    "img": null
-                }, 
-                {
-                    "name": "Charlotte Hornets",
-                    "img": null
-                }, 
-                {
-                    "name": "Chicago Bulls",
-                    "img": null
-                }, 
-                {
-                    "name": "Cleveland Cavaliers",
-                    "img": null
-                }, 
-                {
-                    "name": "Dallas Mavericks",
-                    "img": null
-                }, 
-                {
-                    "name": "Denver Nuggets",
-                    "img": null
-                }, 
-                {
-                    "name": "Detroit Pistons",
-                    "img": null
-                }, 
-                {
-                    "name": "Golden State Warriors",
-                    "img": null
-                }, 
-                {
-                    "name": "Houston Rockets",
-                    "img": null
-                }, 
-                {
-                    "name": "Indiana Pacers",
-                    "img": null
-                }, 
-                {
-                    "name": "Los Angeles Clippers",
-                    "img": null
-                }, 
-                {
-                    "name": "Los Angeles Lakers",
-                    "img": null
-                }, 
-                {
-                    "name": "Memphis Grizzlies",
-                    "img": null
-                }, 
-                {
-                    "name": "Miami Heat",
-                    "img": null
-                }, 
-                {
-                    "name": "Milwaukee Bucks",
-                    "img": null
-                }, 
-                {
-                    "name": "Minnesota Timberwolves",
-                    "img": null
-                }, 
-                {
-                    "name": "New Orleans Pelicans",
-                    "img": null
-                }, 
-                {
-                    "name": "New York Knicks",
-                    "img": null
-                }, 
-                {
-                    "name": "Oklahoma City Thunder",
-                    "img": null
-                }, 
-                {
-                    "name": "Orlando Magic",
-                    "img": null
-                }, 
-                {
-                    "name": "Philadelphia 76ers",
-                    "img": null
-                }, 
-                {
-                    "name": "Phoenix Suns",
-                    "img": null
-                }, 
-                {
-                    "name": "Portland Trail Blazers",
-                    "img": null
-                }, 
-                {
-                    "name": "Sacramento Kings",
-                    "img": null
-                }, 
-                {
-                    "name": "San Antonio Spurs",
-                    "img": null
-                }, 
-                {
-                    "name": "Toronto Raptors",
-                    "img": null
-                }, 
-                {
-                    "name": "Utah Jazz",
-                    "img": null
-                }, 
-                {
-                    "name": "Washington Wizards",
-                    "img": null
-                }
-            ],
-            "timesRated": 0,
-            "img": "https://www.stickpng.com/assets/images/58428defa6515b1e0ad75ab4.png",
-            "criteria": "Choose the team most likely to win right now",
-            "dateCreated": "2019-11-29T21:25:39.627Z"
-        }, 
-        {
-            "name": "MCU Movies",
-            "items": [
-                {
-                    "name": "Iron Man",
-                    "img": null
-                }, 
-                {
-                    "name": "The Incredible Hulk",
-                    "img": null
-                }, 
-                {
-                    "name": "Iron Man 2",
-                    "img": null
-                }, 
-                {
-                    "name": "Thor",
-                    "img": null
-                }, 
-                {
-                    "name": "Captain America: The First Avenger",
-                    "img": null
-                }, 
-                {
-                    "name": "The Avengers",
-                    "img": null
-                }, 
-                {
-                    "name": "Iron Man 3",
-                    "img": null
-                }, 
-                {
-                    "name": "Thor: The Dark World",
-                    "img": null
-                }, 
-                {
-                    "name": "Captain America: The Winter Soldier",
-                    "img": null
-                }, 
-                {
-                    "name": "Guardians of the Galaxy",
-                    "img": null
-                }, 
-                {
-                    "name": "Avengers: Age of Ultron",
-                    "img": null
-                }, 
-                {
-                    "name": "Ant-Man",
-                    "img": null
-                }, 
-                {
-                    "name": "Captain America: Civil War",
-                    "img": null
-                }, 
-                {
-                    "name": "Doctor Strange",
-                    "img": null
-                }, 
-                {
-                    "name": "Guardians of the Galaxy Vol. 2",
-                    "img": null
-                }, 
-                {
-                    "name": "Spider-Man: Homecoming",
-                    "img": null
-                }, 
-                {
-                    "name": "Thor: Ragnarok",
-                    "img": null
-                }, 
-                {
-                    "name": "Black Panther",
-                    "img": null
-                }, 
-                {
-                    "name": "Avengers: Infinity War",
-                    "img": null
-                }, 
-                {
-                    "name": "Ant-Man and the Wasp",
-                    "img": null
-                }, 
-                {
-                    "name": "Captain Marvel",
-                    "img": null
-                }, 
-                {
-                    "name": "Avengers: Endgame",
-                    "img": null
-                }, 
-                {
-                    "name": "Spider-Man: Far From Home",
-                    "img": null
-                }
-            ],
-            "timesRated": 0,
-            "img": "https://www.stickpng.com/assets/images/585f9333cb11b227491c3581.png",
-            "criteria": "Choose the movie you would like to watch more right now",
-            "dateCreated": "2019-11-29T21:25:39.627Z"
+          "name": "Carolina Panthers",
+          "img": null
         },
         {
-            "name": "DCEU Movies",
-            "items": [
-                {
-                    "name": "Man of Steel",
-                    "img": null
-                }, 
-                {
-                    "name": "Batman v Superman: Dawn of Justice",
-                    "img": null
-                }, 
-                {
-                    "name": "Suicide Squad",
-                    "img": null
-                }, 
-                {
-                    "name": "Wonder Woman",
-                    "img": null
-                }, 
-                {
-                    "name": "Justice League",
-                    "img": null
-                }, 
-                {
-                    "name": "Aquaman",
-                    "img": null
-                }, 
-                {
-                    "name": "Shazam!",
-                    "img": null
-                }
-            ],
-            "timesRated": 0,
-            "img": "http://clipart-library.com/images_k/dc-logo-transparent/dc-logo-transparent-11.png",
-            "criteria": "Choose the movie you would like to watch more right now",
-            "dateCreated": "2019-11-29T21:25:39.627Z"
+          "name": "New Orleans Saints",
+          "img": null
+        },
+        {
+          "name": "Tampa Bay Buccaneers",
+          "img": null
+        },
+        {
+          "name": "Atlanta Falcons",
+          "img": null
+        },
+        {
+          "name": "Dallas Cowboys",
+          "img": null
+        },
+        {
+          "name": "Philadelphia Eagles",
+          "img": null
+        },
+        {
+          "name": "New York Giants",
+          "img": null
+        },
+        {
+          "name": "Washington Redskins",
+          "img": null
+        },
+        {
+          "name": "Green Bay Packers",
+          "img": null
+        },
+        {
+          "name": "Chicago Bears",
+          "img": null
+        },
+        {
+          "name": "Minnesota Vikings",
+          "img": null
+        },
+        {
+          "name": "Detroit Lions",
+          "img": null
+        },
+        {
+          "name": "Seattle Seahawks",
+          "img": null
+        },
+        {
+          "name": "Arizona Cardinals",
+          "img": null
+        },
+        {
+          "name": "San Francisco 49ers",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Rams",
+          "img": null
+        },
+        {
+          "name": "New England Patriots",
+          "img": null
+        },
+        {
+          "name": "Miami Dolphins",
+          "img": null
+        },
+        {
+          "name": "New York Jets",
+          "img": null
+        },
+        {
+          "name": "Buffalo Bills",
+          "img": null
+        },
+        {
+          "name": "Pittsburgh Steelers",
+          "img": null
+        },
+        {
+          "name": "Cleveland Browns",
+          "img": null
+        },
+        {
+          "name": "Baltimore Ravens",
+          "img": null
+        },
+        {
+          "name": "Cincinatti Bengals",
+          "img": null
+        },
+        {
+          "name": "Oakland Raiders",
+          "img": null
+        },
+        {
+          "name": "Kansas City Chiefs",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Chargers",
+          "img": null
+        },
+        {
+          "name": "Denver Broncos",
+          "img": null
+        },
+        {
+          "name": "Jacksonville Jaguars",
+          "img": null
+        },
+        {
+          "name": "Tennessee Titans",
+          "img": null
+        },
+        {
+          "name": "Indianapolis Colts",
+          "img": null
+        },
+        {
+          "name": "Houston Texans",
+          "img": null
         }
-    ]
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/5895deb9cba9841eabab6099.png",
+      "criteria": "Choose the team most likely to win right now",
+      "dateCreated": "2019-11-26T21:25:39.627Z"
+    },
+    {
+      "name": "NBA Teams",
+      "items": [
+        {
+          "name": "Atlanta Hawks",
+          "img": null
+        },
+        {
+          "name": "Boston Celtics",
+          "img": null
+        },
+        {
+          "name": "Brooklyn Nets",
+          "img": null
+        },
+        {
+          "name": "Charlotte Hornets",
+          "img": null
+        },
+        {
+          "name": "Chicago Bulls",
+          "img": null
+        },
+        {
+          "name": "Cleveland Cavaliers",
+          "img": null
+        },
+        {
+          "name": "Dallas Mavericks",
+          "img": null
+        },
+        {
+          "name": "Denver Nuggets",
+          "img": null
+        },
+        {
+          "name": "Detroit Pistons",
+          "img": null
+        },
+        {
+          "name": "Golden State Warriors",
+          "img": null
+        },
+        {
+          "name": "Houston Rockets",
+          "img": null
+        },
+        {
+          "name": "Indiana Pacers",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Clippers",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Lakers",
+          "img": null
+        },
+        {
+          "name": "Memphis Grizzlies",
+          "img": null
+        },
+        {
+          "name": "Miami Heat",
+          "img": null
+        },
+        {
+          "name": "Milwaukee Bucks",
+          "img": null
+        },
+        {
+          "name": "Minnesota Timberwolves",
+          "img": null
+        },
+        {
+          "name": "New Orleans Pelicans",
+          "img": null
+        },
+        {
+          "name": "New York Knicks",
+          "img": null
+        },
+        {
+          "name": "Oklahoma City Thunder",
+          "img": null
+        },
+        {
+          "name": "Orlando Magic",
+          "img": null
+        },
+        {
+          "name": "Philadelphia 76ers",
+          "img": null
+        },
+        {
+          "name": "Phoenix Suns",
+          "img": null
+        },
+        {
+          "name": "Portland Trail Blazers",
+          "img": null
+        },
+        {
+          "name": "Sacramento Kings",
+          "img": null
+        },
+        {
+          "name": "San Antonio Spurs",
+          "img": null
+        },
+        {
+          "name": "Toronto Raptors",
+          "img": null
+        },
+        {
+          "name": "Utah Jazz",
+          "img": null
+        },
+        {
+          "name": "Washington Wizards",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/58428defa6515b1e0ad75ab4.png",
+      "criteria": "Choose the team most likely to win right now",
+      "dateCreated": "2019-11-27T21:25:39.627Z"
+    },
+    {
+      "name": "MCU Movies",
+      "items": [
+        {
+          "name": "Iron Man",
+          "img": null
+        },
+        {
+          "name": "The Incredible Hulk",
+          "img": null
+        },
+        {
+          "name": "Iron Man 2",
+          "img": null
+        },
+        {
+          "name": "Thor",
+          "img": null
+        },
+        {
+          "name": "Captain America: The First Avenger",
+          "img": null
+        },
+        {
+          "name": "The Avengers",
+          "img": null
+        },
+        {
+          "name": "Iron Man 3",
+          "img": null
+        },
+        {
+          "name": "Thor: The Dark World",
+          "img": null
+        },
+        {
+          "name": "Captain America: The Winter Soldier",
+          "img": null
+        },
+        {
+          "name": "Guardians of the Galaxy",
+          "img": null
+        },
+        {
+          "name": "Avengers: Age of Ultron",
+          "img": null
+        },
+        {
+          "name": "Ant-Man",
+          "img": null
+        },
+        {
+          "name": "Captain America: Civil War",
+          "img": null
+        },
+        {
+          "name": "Doctor Strange",
+          "img": null
+        },
+        {
+          "name": "Guardians of the Galaxy Vol. 2",
+          "img": null
+        },
+        {
+          "name": "Spider-Man: Homecoming",
+          "img": null
+        },
+        {
+          "name": "Thor: Ragnarok",
+          "img": null
+        },
+        {
+          "name": "Black Panther",
+          "img": null
+        },
+        {
+          "name": "Avengers: Infinity War",
+          "img": null
+        },
+        {
+          "name": "Ant-Man and the Wasp",
+          "img": null
+        },
+        {
+          "name": "Captain Marvel",
+          "img": null
+        },
+        {
+          "name": "Avengers: Endgame",
+          "img": null
+        },
+        {
+          "name": "Spider-Man: Far From Home",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/585f9333cb11b227491c3581.png",
+      "criteria": "Choose the movie you would like to watch more right now",
+      "dateCreated": "2019-11-28T21:25:39.627Z"
+    },
+    {
+      "name": "DCEU Movies",
+      "items": [
+        {
+          "name": "Man of Steel",
+          "img": null
+        },
+        {
+          "name": "Batman v Superman: Dawn of Justice",
+          "img": null
+        },
+        {
+          "name": "Suicide Squad",
+          "img": null
+        },
+        {
+          "name": "Wonder Woman",
+          "img": null
+        },
+        {
+          "name": "Justice League",
+          "img": null
+        },
+        {
+          "name": "Aquaman",
+          "img": null
+        },
+        {
+          "name": "Shazam!",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/DC_Comics_logo.png/600px-DC_Comics_logo.png",
+      "criteria": "Choose the movie you would like to watch more right now",
+      "dateCreated": "2019-11-29T21:25:39.627Z"
+    },
+    {
+      "name": "NHL Teams",
+      "items": [
+        {
+          "name": "Boston Bruins",
+          "img": null
+        },
+        {
+          "name": "Buffalo Sabres",
+          "img": null
+        },
+        {
+          "name": "Detroit Red Wings",
+          "img": null
+        },
+        {
+          "name": "Florida Panthers",
+          "img": null
+        },
+        {
+          "name": "Montreal Canadiens",
+          "img": null
+        },
+        {
+          "name": "Ottawa Senators",
+          "img": null
+        },
+        {
+          "name": "Tampa Bay Lightning",
+          "img": null
+        },
+        {
+          "name": "Toronto Maple Leafs",
+          "img": null
+        },
+        {
+          "name": "Carolina Hurricanes",
+          "img": null
+        },
+        {
+          "name": "Columbus Blue Jackets",
+          "img": null
+        },
+        {
+          "name": "New Jersey Devils",
+          "img": null
+        },
+        {
+          "name": "New York Islanders",
+          "img": null
+        },
+        {
+          "name": "New York Rangers",
+          "img": null
+        },
+        {
+          "name": "Philadelphia Flyers",
+          "img": null
+        },
+        {
+          "name": "Pittsburgh Penguins",
+          "img": null
+        },
+        {
+          "name": "Washington Capitals",
+          "img": null
+        },
+        {
+          "name": "Chicago Blackhawks",
+          "img": null
+        },
+        {
+          "name": "Colorado Avalanche",
+          "img": null
+        },
+        {
+          "name": "Dallas Stars",
+          "img": null
+        },
+        {
+          "name": "Minnesota Wild",
+          "img": null
+        },
+        {
+          "name": "Nashville Predators",
+          "img": null
+        },
+        {
+          "name": "St. Louis Blues",
+          "img": null
+        },
+        {
+          "name": "Winnipeg Jets",
+          "img": null
+        },
+        {
+          "name": "Anaheim Ducks",
+          "img": null
+        },
+        {
+          "name": "Arizona Coyotes",
+          "img": null
+        },
+        {
+          "name": "Calgary Flames",
+          "img": null
+        },
+        {
+          "name": "Edmonton Oilers",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Kings",
+          "img": null
+        },
+        {
+          "name": "San Jose Sharks",
+          "img": null
+        },
+        {
+          "name": "Vancouver Canucks",
+          "img": null
+        },
+        {
+          "name": "Vegas Golden Knights",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/5a4fbb7bda2b4f099b95da15.png",
+      "criteria": "Choose the team you think would win right now",
+      "dateCreated": "2019-12-09T00:34:21.254Z"
+    },
+    {
+      "name": "MLB Teams",
+      "items": [
+        {
+          "name": "Chicago White Sox",
+          "img": null
+        },
+        {
+          "name": "Cleveland Indians",
+          "img": null
+        },
+        {
+          "name": "Detroit Tigers",
+          "img": null
+        },
+        {
+          "name": "Kansas City Royals",
+          "img": null
+        },
+        {
+          "name": "Minnesota Twins",
+          "img": null
+        },
+        {
+          "name": "Chicago Cubs",
+          "img": null
+        },
+        {
+          "name": "Cincinnati Reds",
+          "img": null
+        },
+        {
+          "name": "Milwaukee Brewers",
+          "img": null
+        },
+        {
+          "name": "Pittsburgh Pirates",
+          "img": null
+        },
+        {
+          "name": "St. Louis Cardinals",
+          "img": null
+        },
+        {
+          "name": "Baltimore Orioles",
+          "img": null
+        },
+        {
+          "name": "Boston Red Sox",
+          "img": null
+        },
+        {
+          "name": "New York Yankees",
+          "img": null
+        },
+        {
+          "name": "Tampa Bay Rays",
+          "img": null
+        },
+        {
+          "name": "Toronto Blue Jays",
+          "img": null
+        },
+        {
+          "name": "Atlanta Braves",
+          "img": null
+        },
+        {
+          "name": "Miami Marlins",
+          "img": null
+        },
+        {
+          "name": "New York Mets",
+          "img": null
+        },
+        {
+          "name": "Philadelphia Phillies",
+          "img": null
+        },
+        {
+          "name": "Washington Nationals",
+          "img": null
+        },
+        {
+          "name": "Houston Astros",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Angels",
+          "img": null
+        },
+        {
+          "name": "Oakland Athletics",
+          "img": null
+        },
+        {
+          "name": "Seattle Mariners",
+          "img": null
+        },
+        {
+          "name": "Texas Rangers",
+          "img": null
+        },
+        {
+          "name": "Arizona Diamondbacks",
+          "img": null
+        },
+        {
+          "name": "Colorado Rockies",
+          "img": null
+        },
+        {
+          "name": "Los Angeles Dodgers",
+          "img": null
+        },
+        {
+          "name": "San Diego Padres",
+          "img": null
+        },
+        {
+          "name": "San Francisco Giants",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/584d4c0e0a44bd1070d5d495.png",
+      "criteria": "Choose the team you think would win right now",
+      "dateCreated": "2019-12-09T00:37:37.729Z"
+    },
+    {
+      "name": "Star Wars Movies",
+      "items": [
+        {
+          "name": "Star Wars Episode I: The Phantom Menace",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode II: Attack of the Clones",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode III: Revenge of the Sith",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode IV: A New Hope",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode V: The Empire Strikes Back",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode VI: The Return of the Jedi",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode VII: The Force Awakens",
+          "img": null
+        },
+        {
+          "name": "Rogue One",
+          "img": null
+        },
+        {
+          "name": "Star Wars Episode VIII: The Last Jedi",
+          "img": null
+        },
+        {
+          "name": "Solo",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://pngriver.com/wp-content/uploads/2018/04/Download-Star-Wars-Logo-PNG.png",
+      "criteria": "Choose the movie you'd rather watch right now",
+      "dateCreated": "2019-12-09T00:40:14.007Z"
+    },
+    {
+      "name": "Colors",
+      "items": [
+        {
+          "name": "Red",
+          "img": null
+        },
+        {
+          "name": "Orange",
+          "img": null
+        },
+        {
+          "name": "Yellow",
+          "img": null
+        },
+        {
+          "name": "Green",
+          "img": null
+        },
+        {
+          "name": "Blue",
+          "img": null
+        },
+        {
+          "name": "Purple",
+          "img": null
+        },
+        {
+          "name": "Pink",
+          "img": null
+        },
+        {
+          "name": "Cyan",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "http://pngimg.com/uploads/rainbow/rainbow_PNG5570.png",
+      "criteria": "Choose the color you like more",
+      "dateCreated": "2019-12-09T00:43:48.814Z"
+    },
+    {
+      "name": "Gaming System",
+      "items": [
+        {
+          "name": "PC",
+          "img": null
+        },
+        {
+          "name": "Xbox",
+          "img": null
+        },
+        {
+          "name": "Playstation",
+          "img": null
+        },
+        {
+          "name": "Nintendo",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.pngrepo.com/download/211770/game-controller.png",
+      "criteria": "Choose which one you'd rather play right now",
+      "dateCreated": "2019-12-09T00:46:30.757Z"
+    },
+    {
+      "name": "Disney Princess Movies",
+      "items": [
+        {
+          "name": "Beauty and the Beast",
+          "img": null
+        },
+        {
+          "name": "Moana",
+          "img": null
+        },
+        {
+          "name": "Cinderella",
+          "img": null
+        },
+        {
+          "name": "Frozen",
+          "img": null
+        },
+        {
+          "name": "Brave",
+          "img": null
+        },
+        {
+          "name": "Tangled",
+          "img": null
+        },
+        {
+          "name": "The Princess and the Frog",
+          "img": null
+        },
+        {
+          "name": "Mulan",
+          "img": null
+        },
+        {
+          "name": "Pocahontas",
+          "img": null
+        },
+        {
+          "name": "Aladdin",
+          "img": null
+        },
+        {
+          "name": "The Little Mermaid",
+          "img": null
+        },
+        {
+          "name": "Sleeping Beauty",
+          "img": null
+        },
+        {
+          "name": "Snow White and the Seven Dwarfs",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "https://www.stickpng.com/assets/images/58887c73bc2fc2ef3a186072.png",
+      "criteria": "Choose the one you want to watch more right now",
+      "dateCreated": "2019-12-09T00:49:01.580Z"
+    },
+    {
+      "name": "Ice Cream Flavors",
+      "items": [
+        {
+          "name": "Cookies and Cream",
+          "img": null
+        },
+        {
+          "name": "Chocolate",
+          "img": null
+        },
+        {
+          "name": "Vanilla",
+          "img": null
+        },
+        {
+          "name": "Chocolate Chip",
+          "img": null
+        },
+        {
+          "name": "French Vanilla",
+          "img": null
+        },
+        {
+          "name": "Rocky Road",
+          "img": null
+        },
+        {
+          "name": "Cookie Dough",
+          "img": null
+        },
+        {
+          "name": "Strawberry",
+          "img": null
+        },
+        {
+          "name": "Coffee",
+          "img": null
+        },
+        {
+          "name": "Moost Tracks",
+          "img": null
+        },
+        {
+          "name": "Mint Oreo",
+          "img": null
+        },
+        {
+          "name": "Orange Sherbet",
+          "img": null
+        },
+        {
+          "name": "Butter Pecan",
+          "img": null
+        },
+        {
+          "name": "Dulce de Leche (caramel)",
+          "img": null
+        }
+      ],
+      "timesRated": 0,
+      "img": "http://static1.squarespace.com/static/554ce696e4b0f3d2b24d978b/t/5d7078b82445340001317659/1573589982827/",
+      "criteria": "Choose the flavor you like more",
+      "dateCreated": "2019-12-09T16:36:42.811Z"
+    }
+  ]
 }
